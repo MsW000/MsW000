@@ -55,20 +55,20 @@
 
 ### 📂 Projects
 
-- [**delTgChat**](https://github.com/MsW000/delTgChat)  
-  Python-скрипт для массового удаления сообщений в Telegram-группах. Использует Telethon.
+- [**OnlineChat-main**]([https://github.com/MsW000/OOPTrainPython](https://github.com/MsW000/OnlineChat-main.git))  
+  Пожалуй самый большой мой проект. Он пока в разработке. Это онлайн-чат, где будут пользователи общаться real time. Он на FastApi с джентельменским набором современного backend 
+
+- [**CRUD ON FastaApi Plust PyTests**]([https://github.com/MsW000/delTgChat](https://github.com/MsW000/FastCRUD_PLUS_PYTESTs.git))  
+  CRUD на FastApi с полноценной БД на Postgresql, где я работал с PyTest и тестировал и ловил логи
 
 - [**baseSupportTools**](https://github.com/MsW000/baseSupportTools)  
   Набор утилит для работы с JSON, файловой системой и автоматизации рутинных задач.
-
-- [**OOPTrainPython**](https://github.com/MsW000/OOPTrainPython)  
-  Sandbox для практики ООП в Python — классы, наследование, инкапсуляция.
 
 - [**TelegramBot_FSBLookFor**](https://github.com/MsW000/TelegramBot_FSBLookFor)  
   Telegram-бот для отслеживания местоположения ребёнка (находится ли в школе).
 
 - [**TrollGrowl**](https://github.com/MsW000/TrollGrowl)  
-  Frontend-сайт музыкальной группы. HTML + CSS.
+  Frontend-сайт музыкальной группы. HTML + CSS. И щепотка JS, его писал очень давно и многое там требует доработки. Проект который просто показывает что я трогал Front-end
 
 ---
 
