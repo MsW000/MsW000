@@ -55,10 +55,10 @@
 
 ### 📂 Projects
 
-- [**OnlineChat-main**]([https://github.com/MsW000/OOPTrainPython](https://github.com/MsW000/OnlineChat-main.git))  
+- [**OnlineChat-main**](https://github.com/MsW000/OOPTrainPython](https://github.com/MsW000/OnlineChat-main.git)
   Пожалуй самый большой мой проект. Он пока в разработке. Это онлайн-чат, где будут пользователи общаться real time. Он на FastApi с джентельменским набором современного backend 
 
-- [**CRUD ON FastaApi Plust PyTests**]([https://github.com/MsW000/delTgChat](https://github.com/MsW000/FastCRUD_PLUS_PYTESTs.git))  
+- [**CRUD ON FastaApi Plust PyTests**](https://github.com/MsW000/delTgChat](https://github.com/MsW000/FastCRUD_PLUS_PYTESTs.git)
   CRUD на FastApi с полноценной БД на Postgresql, где я работал с PyTest и тестировал и ловил логи
 
 - [**baseSupportTools**](https://github.com/MsW000/baseSupportTools)  
