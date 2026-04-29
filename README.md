@@ -20,12 +20,6 @@
 - REST API, OAuth2
 - Pytest, SQLAlchemy
 
-- Python, FastAPI, Flask
-- PostgreSQL, Redis
-- Docker, Git
-- REST API, OAuth2
-- Pytest, SQLAlchemy
-
 ---
 
 ---
