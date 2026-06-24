@@ -22,29 +22,13 @@ Building open-source AI assistants and autonomous agent systems powered by local
 
 ---
 
-### Tech Stack
+# Tech Stack
 
-Python • FastAPI • PyQt6 • Ollama • PostgreSQL • pgvector
+<div align="center">
 
-### Core Features
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,git,vscode&perline=8" />
 
-✅ Voice Assistant (STT / TTS)
-
-✅ Local LLM Integration via Ollama
-
-✅ AI Agents
-
-✅ Tool Calling
-
-✅ RAG Knowledge Base
-
-✅ Long-Term Memory
-
-✅ Context Management
-
-✅ Windows/Linux Automation
-
-✅ Plugin-Oriented Architecture
+</div>
 
 # About Me
 
@@ -98,13 +82,30 @@ J.A.R.V.I.S combines the power of modern LLMs with deep OS integration, enabling
 
 ---
 
-# Tech Stack
+### Tech Stack
 
-<div align="center">
+Python • FastAPI • PyQt6 • Ollama • PostgreSQL • pgvector
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,git,vscode&perline=8" />
+### Core Features
 
-</div>
+✅ Voice Assistant (STT / TTS)
+
+✅ Local LLM Integration via Ollama
+
+✅ AI Agents
+
+✅ Tool Calling
+
+✅ RAG Knowledge Base
+
+✅ Long-Term Memory
+
+✅ Context Management
+
+✅ Windows/Linux Automation
+
+✅ Plugin-Oriented Architecture
+
 
 ## AI & LLM
 
