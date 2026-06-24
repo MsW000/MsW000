@@ -82,29 +82,24 @@ J.A.R.V.I.S combines the power of modern LLMs with deep OS integration, enabling
 
 ---
 
-### Tech Stack
+### Core Feature
 
-Python • FastAPI • PyQt6 • Ollama • PostgreSQL • pgvector
+# 🗺️ Current Roadmap
 
-### Core Features
+### J.A.R.V.I.S Alpha
 
-✅ Voice Assistant (STT / TTS)
-
-✅ Local LLM Integration via Ollama
-
-✅ AI Agents
-
-✅ Tool Calling
-
-✅ RAG Knowledge Base
-
-✅ Long-Term Memory
-
-✅ Context Management
-
-✅ Windows/Linux Automation
-
-✅ Plugin-Oriented Architecture
+* [x] Ollama Integration
+* [x] FastAPI Backend
+* [x] PostgreSQL Storage
+* [x] pgvector Integration
+* [x] Context Memory
+* [x] Tool Calling Foundation
+* [ ] Voice Pipeline
+* [ ] Multi-Agent Planning
+* [x] Desktop Client
+* [x] Memory Engine v2
+* [ ] Plugin Marketplace
+* [ ] Cloud Synchronization
 
 
 ## AI & LLM
@@ -148,25 +143,6 @@ Python • FastAPI • PyQt6 • Ollama • PostgreSQL • pgvector
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsW000&layout=compact&theme=tokyonight"/>
 
 </div>
-
----
-
-# 🗺️ Current Roadmap
-
-### J.A.R.V.I.S Alpha
-
-* [x] Ollama Integration
-* [x] FastAPI Backend
-* [x] PostgreSQL Storage
-* [x] pgvector Integration
-* [x] Context Memory
-* [x] Tool Calling Foundation
-* [ ] Voice Pipeline
-* [ ] Multi-Agent Planning
-* [ ] Desktop Client
-* [ ] Memory Engine v2
-* [ ] Plugin Marketplace
-* [ ] Cloud Synchronization
 
 ---
 
