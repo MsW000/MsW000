@@ -1,57 +1,206 @@
 <div align="center">
-  <h1>Hi there, I'm Dmitry</h1>
-  <h3>Python Developer • Backend • AI Applications</h3>
 
+# Dmitry Belov
+
+### AI Software Engineer • LLM Systems • AI Agents • RAG
+
+Building open-source AI assistants and autonomous agent systems powered by local LLMs.
+
+<p>
   <a href="https://www.linkedin.com/in/dmitry-belov-2584022b7">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="mailto:inakentius@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=MsW000&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
 
-### 🛠️ Tech Stack
+---
+
+# About Me
+
+AI Software Engineer focused on building production-ready AI systems and autonomous assistants.
+
+### Current Focus
+
+* AI Agents
+* Local LLM Infrastructure
+* RAG Systems
+* FastAPI Backends
+* Ollama Integration
+* Vector Databases
+* Tool Calling
+* Agentic Workflows
+
+### Open Source
+
+Currently building **J.A.R.V.I.S** — an open-source AI platform that combines local language models, voice interaction, memory systems, RAG, and operating system automation.
+
+**Goal:** replace traditional human-computer interaction with AI-driven workflows.
+
+---
+
+# Featured Project
+
+## J.A.R.V.I.S
+
+> Open-source AI operating system assistant for Windows and Linux.
+
+J.A.R.V.I.S combines the power of modern LLMs with deep OS integration, enabling voice control, conversational interaction, automation, memory, and intelligent task execution.
+
+### Status
+
+🔹 Alpha (Active Development)
+
+### Tech Stack
+
+Python • FastAPI • PyQt6 • Ollama • PostgreSQL • pgvector
+
+### Core Features
+
+✅ Voice Assistant (STT / TTS)
+
+✅ Local LLM Integration via Ollama
+
+✅ AI Agents
+
+✅ Tool Calling
+
+✅ RAG Knowledge Base
+
+✅ Long-Term Memory
+
+✅ Context Management
+
+✅ Windows/Linux Automation
+
+✅ Plugin-Oriented Architecture
+
+### Architecture Highlights
+
+* FastAPI API Layer
+* Agent System
+* Tool Router
+* RAG Engine
+* Memory System
+* OS Bridge Layer
+* PyQt6 Desktop Client
+* Observability & Logging
+
+### Repository
+
+🔗 https://github.com/MsW000/LlmFastApi
+
+---
+
+# Tech Stack
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,mysql,redis,docker,git,arch,linux,vim,vscode&perline=12" alt="Tech Stack" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,git,vscode&perline=8" />
+
 </div>
 
-- Python, FastAPI, Flask
-- PostgreSQL, Redis
-- Docker, Git
-- REST API, OAuth2
-- Pytest, SQLAlchemy
+## AI & LLM
+
+* Ollama
+* RAG Pipelines
+* pgvector
+* Embeddings
+* AI Agents
+* Tool Calling
+* Prompt Engineering
+* Context Engineering
+* Semantic Search
+
+## Backend
+
+* FastAPI
+* SQLAlchemy
+* PostgreSQL
+* Redis
+* JWT Authentication
+* REST APIs
+* Async Python
+
+## DevOps & Infrastructure
+
+* Docker
+* Linux
+* GitHub Actions
+* Git
+* CI/CD
 
 ---
 
----
+# 📈 GitHub Stats
 
-### 📂 Projects
+<div align="center">
 
-- [**LlmFastApi J.A.R.V.I.S v1.0**](https://github.com/MsW000/LlmFastApi)
-  Ваш личный AI-ассистент с открытым исходным кодом, интегрированный в операционную систему. Управляйте компьютером голосом, чатом, автоматизируйте задачи и расширяйте возможности с помощью модульной архитектуры
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MsW000&show_icons=true&theme=tokyonight"/>
 
-- [**CRUD ON FastApi Plus PyTests**](https://github.com/MsW000/FastCRUD_PLUS_PYTESTs.git)
-  CRUD на FastApi с полноценной БД на Postgresql, где я работал с PyTest и тестировал и ловил логи
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsW000&layout=compact&theme=tokyonight"/>
 
-- [**baseSupportTools**](https://github.com/MsW000/baseSupportTools)  
-  Набор утилит для работы с JSON, файловой системой и автоматизации рутинных задач.
-
-- [**OnlineChat-main**]()))  
-  Telegram-бот для отслеживания местоположения ребёнка (находится ли в школе).
-
-- [**TrollGrowl**](https://github.com/MsW000/TrollGrowl)  
-  Frontend-сайт музыкальной группы. HTML + CSS. И щепотка JS, его писал очень давно и многое там требует доработки. Проект который просто показывает что я трогал Front-end
+</div>
 
 ---
 
-### 📈 GitHub Stats
+# 🗺️ Current Roadmap
 
-![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=MsW000&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MsW000&layout=compact&theme=radical)
+### J.A.R.V.I.S Alpha
+
+* [x] Ollama Integration
+* [x] FastAPI Backend
+* [x] PostgreSQL Storage
+* [x] pgvector Integration
+* [x] Context Memory
+* [x] Tool Calling Foundation
+* [ ] Voice Pipeline
+* [ ] Multi-Agent Planning
+* [ ] Desktop Client
+* [ ] Memory Engine v2
+* [ ] Plugin Marketplace
+* [ ] Cloud Synchronization
 
 ---
 
-### 📫 Contacts
-- 📧 Email: inakentius@gmail.com
-- 💬 Telegram: [@ms_W_0001]![alt text](image.png)
+# 📂 Other Projects
+
+### FastCRUD + PyTests
+
+Production-style FastAPI CRUD application with PostgreSQL, SQLAlchemy, authentication, and automated testing.
+
+🔗 https://github.com/MsW000/FastCRUD_PLUS_PYTESTs
+
+### baseSupportTools
+
+Utility toolkit for filesystem operations, JSON processing, and automation workflows.
+
+🔗 https://github.com/MsW000/baseSupportTools
+
+### TrollGrowl
+
+Frontend project built with HTML, CSS and JavaScript.
+
+🔗 https://github.com/MsW000/TrollGrowl
 
 ---
+
+# 📫 Contact
+
+📧 Email: [inakentius@gmail.com](mailto:inakentius@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/dmitry-belov-2584022b7
+
+💬 Telegram:
+@ms_W_0001
+
+---
+
+> Building systems, not just demos.
