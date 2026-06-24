@@ -16,8 +16,6 @@ Building open-source AI assistants and autonomous agent systems powered by local
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MsW000&label=Profile%20Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
