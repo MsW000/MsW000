@@ -45,6 +45,37 @@ AI Software Engineer focused on building production-ready AI systems and autonom
 * Tool Calling
 * Agentic Workflows
 
+## AI & LLM
+
+* Ollama
+* RAG Pipelines
+* pgvector
+* Embeddings
+* AI Agents
+* Tool Calling
+* Prompt Engineering
+* Context Engineering
+* Semantic Search
+
+## Backend
+
+* FastAPI
+* SQLAlchemy
+* PostgreSQL
+* Redis
+* JWT Authentication
+* REST APIs
+* Async Python
+
+## DevOps & Infrastructure
+
+* Docker
+* Linux
+* GitHub Actions
+* Git
+* CI/CD
+
+
 ### Open Source
 
 Currently building **J.A.R.V.I.S** — an open-source AI platform that combines local language models, voice interaction, memory systems, RAG, and operating system automation.
@@ -100,38 +131,6 @@ J.A.R.V.I.S combines the power of modern LLMs with deep OS integration, enabling
 * [x] Memory Engine v2
 * [ ] Plugin Marketplace
 * [ ] Cloud Synchronization
-
-
-## AI & LLM
-
-* Ollama
-* RAG Pipelines
-* pgvector
-* Embeddings
-* AI Agents
-* Tool Calling
-* Prompt Engineering
-* Context Engineering
-* Semantic Search
-
-## Backend
-
-* FastAPI
-* SQLAlchemy
-* PostgreSQL
-* Redis
-* JWT Authentication
-* REST APIs
-* Async Python
-
-## DevOps & Infrastructure
-
-* Docker
-* Linux
-* GitHub Actions
-* Git
-* CI/CD
-
 ---
 
 # 📈 GitHub Stats
