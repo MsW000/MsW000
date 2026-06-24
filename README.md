@@ -113,7 +113,7 @@ J.A.R.V.I.S combines the power of modern LLMs with deep OS integration, enabling
 
 ### Core Feature
 
-# 🗺️ Current Roadmap
+# Current Roadmap
 
 ### J.A.R.V.I.S Alpha
 
@@ -131,7 +131,7 @@ J.A.R.V.I.S combines the power of modern LLMs with deep OS integration, enabling
 * [ ] Cloud Synchronization
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -143,7 +143,7 @@ J.A.R.V.I.S combines the power of modern LLMs with deep OS integration, enabling
 
 ---
 
-# 📂 Other Projects
+# Other Projects
 
 ### FastCRUD + PyTests
 
@@ -165,14 +165,14 @@ Frontend project built with HTML, CSS and JavaScript.
 
 ---
 
-# 📫 Contact
+# Contact
 
-📧 Email: [inakentius@gmail.com](mailto:inakentius@gmail.com)
+ Email: [inakentius@gmail.com](mailto:inakentius@gmail.com)
 
-💼 LinkedIn:
+ LinkedIn:
 https://www.linkedin.com/in/dmitry-belov-2584022b7
 
-💬 Telegram:
+Telegram:
 @ms_W_0001
 
 ---
