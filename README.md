@@ -31,7 +31,7 @@
 
 ### 📂 Projects
 
-- [**OnlineChat-main**](https://github.com/MsW000/OnlineChat-main.git)
+- [**LlmFastApi J.A.R.V.I.S v1.0**](https://github.com/MsW000/LlmFastApi)
   Пожалуй самый большой мой проект. Он пока в разработке. Это онлайн-чат, где будут пользователи общаться real time. Он на FastApi с джентельменским набором современного backend
 
 - [**CRUD ON FastApi Plus PyTests**](https://github.com/MsW000/FastCRUD_PLUS_PYTESTs.git)
@@ -40,7 +40,7 @@
 - [**baseSupportTools**](https://github.com/MsW000/baseSupportTools)  
   Набор утилит для работы с JSON, файловой системой и автоматизации рутинных задач.
 
-- [**TelegramBot_FSBLookFor**](https://github.com/MsW000/TelegramBot_FSBLookFor)  
+- [**OnlineChat-main**]()))  
   Telegram-бот для отслеживания местоположения ребёнка (находится ли в школе).
 
 - [**TrollGrowl**](https://github.com/MsW000/TrollGrowl)  
