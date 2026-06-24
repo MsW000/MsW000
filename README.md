@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Dmitry 👋</h1>
-  <h3>Python Backend Developer from Belarus 🇧🇾</h3>
+  <h1>Hi there, I'm Dmitry</h1>
+  <h3>Python Developer • Backend • AI Applications</h3>
 
   <a href="https://www.linkedin.com/in/dmitry-belov-2584022b7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
