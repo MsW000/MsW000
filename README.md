@@ -95,7 +95,7 @@ J.A.R.V.I.S combines the power of modern LLMs with deep OS integration, enabling
 
 🔗 https://github.com/MsW000/mmap_pject
 
-### If u tired delete message use your hands. Thi's script for u
+### If u tired delete message in telegram use your hands. Thi's script for u
 🔗 https://github.com/MsW000/delTgChat
 ---
 
