@@ -36,17 +36,26 @@ A normal software engenier who just love programming and PC. And want push that 
 
 Currently building **J.A.R.V.I.S** — that open-source AI platform that combines local language models, voice interaction, memory systems, RAG, and operating system automation. but for a usual person that's just ai assistent for your pc
 
-## J.A.R.V.I.S
-
+### Status J.A.R.V.I.S Alpha
 > Open-source AI operating system assistant for Windows and Linux.
 
 J.A.R.V.I.S combines the power of modern LLMs with deep OS integration, enabling voice control, conversational interaction, automation, memory, and intelligent task execution.
 
 **Goal:** replace traditional human-computer interaction with AI-driven workflows.
 
-### Status
-
-🔹 Alpha (Active Development)
+* [x] Ollama Integration
+* [x] FastAPI Backend
+* [x] PostgreSQL Storage
+* [x] pgvector Integration
+* [x] Context Memory
+* [x] Tool Calling Foundation
+* [ ] Voice Pipeline
+* [ ] Multi-Agent Planning
+* [x] Desktop Client
+* [x] Memory Engine v2
+* [ ] Plugin Marketplace
+* [ ] Cloud Synchronization
+---
 
 ### Architecture Highlights
 
@@ -63,26 +72,6 @@ J.A.R.V.I.S combines the power of modern LLMs with deep OS integration, enabling
 
 🔗 https://github.com/MsW000/LlmFastApi
 
----
-
-### Core Feature
-
-# Current Roadmap
-
-### J.A.R.V.I.S Alpha
-
-* [x] Ollama Integration
-* [x] FastAPI Backend
-* [x] PostgreSQL Storage
-* [x] pgvector Integration
-* [x] Context Memory
-* [x] Tool Calling Foundation
-* [ ] Voice Pipeline
-* [ ] Multi-Agent Planning
-* [x] Desktop Client
-* [x] Memory Engine v2
-* [ ] Plugin Marketplace
-* [ ] Cloud Synchronization
 ---
 
 # Other Projects
