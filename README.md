@@ -36,10 +36,6 @@ A normal software engenier who just love programming and PC. And want push that 
 
 Currently building **J.A.R.V.I.S** — that open-source AI platform that combines local language models, voice interaction, memory systems, RAG, and operating system automation. but for a usual person that's just ai assistent for your pc
 
----
-
-# Featured Project
-
 ## J.A.R.V.I.S
 
 > Open-source AI operating system assistant for Windows and Linux.
