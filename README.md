@@ -30,53 +30,11 @@ Building open-source AI assistants and autonomous agent systems powered by local
 
 # About Me
 
-AI Software Engineer focused on building production-ready AI systems and autonomous assistants.
-
-### Current Focus
-
-* AI Agents
-* Local LLM Infrastructure
-* RAG Systems
-* FastAPI Backends
-* Ollama Integration
-* Vector Databases
-* Tool Calling
-* Agentic Workflows
-
-## AI & LLM
-
-* Ollama
-* RAG Pipelines
-* pgvector
-* Embeddings
-* AI Agents
-* Tool Calling
-* Prompt Engineering
-* Context Engineering
-* Semantic Search
-
-## Backend
-
-* FastAPI
-* SQLAlchemy
-* PostgreSQL
-* Redis
-* JWT Authentication
-* REST APIs
-* Async Python
-
-## DevOps & Infrastructure
-
-* Docker
-* Linux
-* GitHub Actions
-* Git
-* CI/CD
-
+A normal software engenier who just love programming and PC. And want push that world use my skills. I'm allways try upgrade my skills. And recently I finally started doing it slowly u know ))
 
 ### Open Source
 
-Currently building **J.A.R.V.I.S** — an open-source AI platform that combines local language models, voice interaction, memory systems, RAG, and operating system automation.
+Currently building **J.A.R.V.I.S** — that open-source AI platform that combines local language models, voice interaction, memory systems, RAG, and operating system automation. but for a usual person that's just ai assistent for your pc
 
 **Goal:** replace traditional human-computer interaction with AI-driven workflows.
 
@@ -131,38 +89,14 @@ J.A.R.V.I.S combines the power of modern LLMs with deep OS integration, enabling
 * [ ] Cloud Synchronization
 ---
 
-# GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MsW000&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsW000&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # Other Projects
 
-### FastCRUD + PyTests
+### mmap_pject for fun
 
-Production-style FastAPI CRUD application with PostgreSQL, SQLAlchemy, authentication, and automated testing.
+🔗 https://github.com/MsW000/mmap_pject
 
-🔗 https://github.com/MsW000/FastCRUD_PLUS_PYTESTs
-
-### baseSupportTools
-
-Utility toolkit for filesystem operations, JSON processing, and automation workflows.
-
-🔗 https://github.com/MsW000/baseSupportTools
-
-### TrollGrowl
-
-Frontend project built with HTML, CSS and JavaScript.
-
-🔗 https://github.com/MsW000/TrollGrowl
-
+### If u tired delete message use your hands. Thi's script for u
+🔗 https://github.com/MsW000/delTgChat
 ---
 
 # Contact
@@ -174,7 +108,3 @@ https://www.linkedin.com/in/dmitry-belov-2584022b7
 
 Telegram:
 @ms_W_0001
-
----
-
-> Building systems, not just demos.
